@@ -28,8 +28,6 @@
   - React 기반 Frontend 및 Spring 기반 Backend 개발 참여
   - [Frontend](https://github.com/umhye1/Fit-a-PetFE) · [Backend](https://github.com/jjmmnd/Fit-a-PetBE) · [Service](https://fitapet.vercel.app)
 
-## 🥇 Awards
-
 ## 🛠️ Stacks & Tools
 
 ### Backend
