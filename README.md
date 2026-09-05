@@ -72,6 +72,6 @@
 <img
   src="https://render.gitanimals.org/farms/umhye1"
   width="600"
-  height="300"
+  height="350"
 />
 </a>
